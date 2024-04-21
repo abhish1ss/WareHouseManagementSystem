@@ -6,4 +6,4 @@ Welcome to our GitHub repository, the central hub for our project's source code,
 3. User can store a store details.
 4. Admin can add, modify or delete vehicle details.
 5. Dashboard will have cash counter calculator.
-6. WHMS will have inbuilt Stock Management System.
+6. WMS will have inbuilt Stock Management System.
