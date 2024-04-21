@@ -1,5 +1,5 @@
 # WareHouseManagementSystem
-
+Welcome to our GitHub repository, the central hub for our project's source code, documentation, and collaboration tools. Here, you'll find everything you need to understand, contribute to, and enhance our warehouse management system (WMS).
 ## Requirements
 1. User can store, generate, print a bill
 2. User will have three roles - admin, employee, and manager.
